@@ -5,10 +5,14 @@
 
 #  Práctica 1 – Explorando los Estándares Web con HTML, CSS y JavaScript
 
-**Asignatura:** Programación y Plataformas Web  
-**Unidad:** 1.2 – Estándares Web  
+**Asignatura:** Programación y Plataformas Web
+
+**Unidad:** 1.2 – Estándares Web 
+
 **Estudiante:** Valeria Mantilla
+
 **Repositorio:** https://github.com/Alanissette16/-icc-ppw-u1-mi_pagina_web.git
+
 **Página desplegada (GitHub Pages):** https://alanissette16.github.io/-icc-ppw-u1-mi_pagina_web/
 
 ---
