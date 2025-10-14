@@ -13,7 +13,7 @@
 
 **Repositorio:** https://github.com/Alanissette16/-icc-ppw-u1-mi_pagina_web.git
 
-**Página desplegada (GitHub Pages):** https://alanissette16.github.io/-icc-ppw-u1-mi_pagina_web/
+**Página desplegada (GitHub Pages):** https://alanissette16.github.io/-icc-ppw-u1-mi_pagina_web/  Profe esta es la 1ra parte solo con html
 
 ---
 
