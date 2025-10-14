@@ -165,4 +165,5 @@ El archivo `script.js` incorpora dos acciones básicas:
 
 * Agregar su captura de pantalla del proyecto final funcionando en el navegador, de ambas versiones (sin y con CSS/JS)
 
-![alt text](<Captura de pantalla 2025-10-14 a la(s) 3.35.33 p. m..png>)
+<img width="480" height="642" alt="{1EB6889D-FE56-4654-8DA5-DA76F632D14C}" src="https://github.com/user-attachments/assets/9034ebde-12c4-48a0-a1fc-b049d702288e" />
+
