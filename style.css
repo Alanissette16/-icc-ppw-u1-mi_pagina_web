@@ -1,0 +1,106 @@
+body {
+  font-family: 'Times New Roman', 'Courier New';
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+/* Encabezado */
+header {
+  background-color: #b956e7;
+  color: white;
+  text-align: center;
+  padding: 1.5rem 0;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 4em;
+}
+
+header h2 {
+  margin: 0.5rem 0 0 0;
+  font-size: 2.8em;
+  font-weight: 400;
+}
+
+/* Secciones principales */
+main {
+  padding: 2rem;
+}
+
+/* Títulos de sección */
+section h2 {
+  color: #b30059;
+  border-bottom: 2px solid #b30059;
+  padding-bottom: 5px;
+}
+
+/* Tabla */
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin-top: 1rem;
+  background-color: white;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+  border: 1px solid rgb(172, 19, 83);
+  padding: 10px;
+  text-align: left;
+  font-size: 18px;
+}
+
+th {
+  background-color: #ffe6f0;
+  color: #b30059;
+}
+
+/* Imagen y figura */
+figure {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+figcaption {
+  font-style: italic;
+  color: #555;
+  margin-top: 0.5rem;
+}
+
+/* Aside */
+aside {
+  background-color: #fff0f5;
+  border-left: 5px solid #b30059;
+  padding: 1rem;
+  margin-top: 1.5rem;
+  font-size: 20px;
+}
+
+aside a {
+  color: #b30059;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 20px;
+
+}
+/* Subraya la pablabra articulo cuando pasa el cursor,
+hover= pseudoclase que se activa cuando el usuario pasa el puntero del mouse por encima */
+aside a:hover {
+    text-decoration: underline;
+}
+
+
+/* Pie de página */
+footer {
+  background-color: #b956e7;
+  color: white;
+  text-align: center;
+  padding: 2px; 
+  margin-top: 2rem; 
+  font-size: 22px;
+  font-weight: bolder; /* Negrita */
+}
